@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.github.com/Yash-Ray">
-        <img src="https://media3.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="40" height="40" hspace="30">
+        <img src="https://media3.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="60" height="60" hspace="30">
     </a>
 </p>
 
@@ -44,7 +44,7 @@
 
 <h3 align="center">
   <code>
-    Tech stacks used
+    My Play-Areas:
   </code>
 </h3>
 
@@ -57,8 +57,8 @@
 <br>
 <br>
 
-<!-- <p align="center">
-  <a href="https://github.com/IshaanOhri">
-    <img src="https://github-readme-stats.vercel.app/api?username=IshaanOhri&include_all_commits=true&count_private=true&show_icons=true" />
+<p align="center">
+  <a href="https://github.com/Yash-Ray">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ray&count_private=true&show_icons=true&bg_color=45,#F4D03F,#16A085&icon_color=#ffffff&title_color=#ffffff&text_color=#ffffff" />
   </a>
-</p> -->
+</p>
