@@ -1,3 +1,4 @@
+<code>@<a href="https://www.github.com/Yash-Ray">Yash Ray</a></code>
 <p align="center">
     <a href="https://www.github.com/Yash-Ray">
         <img src="https://media3.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="130" height="130" hspace="30">
@@ -54,7 +55,7 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/html5-logo-png-transparent.png" height=50 hspace=20>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" height=50 hspace=20>
     <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" height=45 hspace=20>
-    <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/bciJjUAsRzG6UQbCRcVe" height=50 hspace=20>
+    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/bootstrap.png" height=50 hspace=20>
     
 </p>
 <p align="center">
