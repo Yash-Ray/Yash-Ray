@@ -51,10 +51,17 @@
 <br>
 
 <p align="center">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/html5-logo-png-transparent.png" height=50 hspace=20>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" height=50 hspace=20>
+    <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" height=45 hspace=20>
+    <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/bciJjUAsRzG6UQbCRcVe" height=50 hspace=20>
+    
+</p>
+<p align="center">
     <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/cpp.png" height=40 hspace=20>
     <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/python.png" height=40 hspace=20>
-    <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" height=50 hspace=20>
-    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/jupyter.png" height=50 hspace=20>
+    <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" height=55hspace=20>
+    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/jupyter.png" height=45 hspace=20>
 </p>
 <br>
 <br>
