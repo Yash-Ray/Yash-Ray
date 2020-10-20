@@ -1,5 +1,4 @@
 <code>@<a href="https://www.github.com/Yash-Ray">Yash Ray</a></code>
-<img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/qr.png" height=40 width=40 align="right">
 <p align="center">
     <a href="https://www.github.com/Yash-Ray">
         <img src="https://media3.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="130" height="130" hspace="30">
