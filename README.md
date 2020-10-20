@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yash-Ray&color=orange&style=plastic&label=PROFILE+VISITS" alt="Yash-Ray" />
+  <img src="https://komarev.com/ghpvc/?username=Yash-Ray&color=orange&style=plastic&label=PROFILE+VISITS&show_icons=true" alt="Yash-Ray" />
 </p>
 
 <br>
@@ -32,16 +32,16 @@
 
 <p align="center">
   <code>
-  
+      Hi There. I'm Yash Ray, a <strong>2nd</strong> Year <strong>CSE</strong> Undergrad Student at <strong>Vellore Institue of Technology, Vellore.</strong> I'm a <strong>Front-End Web-Developer</strong> who loves to try out new things. <strong>Data_science</strong> and <strong>Sport Programming</strong> are yet another fields of my interest. With a passion for Technology, I always look forward to oppurtunities to innovate and create.
   </code>
 </p>
 
 
-<!-- <p align="center">
-  <a href="https://github.com/IshaanOhri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/coding.gif" width="500">
+<p align="center">
+  <a href="https://github.com/Yash-Ray">
+    <img src="https://currentkids.in/wp-content/uploads/2018/02/gif-animation.gif" width="300">
   </a>
-</p> -->
+</p>
 
 <h3 align="center">
   <code>
@@ -72,7 +72,14 @@
 <br>
 
 <p align="center">
+    <a href="https://github.com/Yash-Ray">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
+    </a>
+</p>
+<p align="center">
   <a href="https://github.com/Yash-Ray">
     <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ray&count_private=true&show_icons=true&theme=chartreuse-dark" />
   </a>
 </p>
+<br>
+<br>
