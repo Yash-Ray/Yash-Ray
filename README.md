@@ -45,7 +45,7 @@
 
 <h3 align="center">
   <code>
-    My Tech-Stack:
+    My Tech-Stack
   </code>
 </h3>
 
