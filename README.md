@@ -42,7 +42,7 @@
     <img src="https://currentkids.in/wp-content/uploads/2018/02/gif-animation.gif" width="300">
   </a>
 </p>
-
+<br>
 <h3 align="center">
   <code>
     My Tech-Stack
