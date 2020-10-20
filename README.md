@@ -73,12 +73,12 @@
 
 <p align="center">
     <a href="https://github.com/Yash-Ray">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Ray&layout=compact"/>
     </a>
 </p>
 <p align="center">
   <a href="https://github.com/Yash-Ray">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ray&count_private=true&show_icons=true&theme=chartreuse-dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ray&count_private=true&show_icons=true&theme=chartreuse-dark"/>
   </a>
 </p>
 <br>
