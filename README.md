@@ -1,4 +1,5 @@
 <code>@<a href="https://www.github.com/Yash-Ray">Yash Ray</a></code>
+<img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/qr.png" height=40 width=40 align="right">
 <p align="center">
     <a href="https://www.github.com/Yash-Ray">
         <img src="https://media3.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="130" height="130" hspace="30">
@@ -63,6 +64,10 @@
     <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/python.png" height=40 hspace=20>
     <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" height=55hspace=20>
     <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/jupyter.png" height=45 hspace=20>
+</p>
+<p align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height=40 hspace=20 vspace=5>
+    <img src="https://miro.medium.com/max/325/0*tTvqxZBtyiDw3vVw.png" height=40 hspace=20 vspace=5>
 </p>
 <br>
 <br>
