@@ -51,9 +51,10 @@
 <br>
 
 <p align="center">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/cpp.png" height=40 hspace=20>
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/python.png" height=40 hspace=20>
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/java.png" height=40 hspace=20>
+    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/cpp.png" height=40 hspace=20>
+    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/python.png" height=40 hspace=20>
+    <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" height=50 hspace=20>
+    <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/jupyter.png" height=50 hspace=20>
 </p>
 <br>
 <br>
