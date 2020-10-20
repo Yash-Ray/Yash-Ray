@@ -77,7 +77,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Yash-Ray">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ray&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ray&count_private=true&show_icons=true&theme=buefy"/>
   </a>
 </p>
 <br>
