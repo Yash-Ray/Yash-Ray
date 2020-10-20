@@ -1,4 +1,4 @@
-<code>@<a href="https://www.github.com/Yash-Ray">Yash Ray</a></code>
+<code>@<a href="https://www.github.com/Yash-Ray">Yash-Ray</a></code>
 <p align="center">
     <a href="https://www.github.com/Yash-Ray">
         <img src="https://media3.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="130" height="130" hspace="30">
