@@ -80,5 +80,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Yash-Ray&count_private=true&show_icons=true&theme=buefy"/>
   </a>
 </p>
-<br>
-<br>
