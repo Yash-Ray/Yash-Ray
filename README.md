@@ -72,7 +72,7 @@
 
 <p align="center">
     <a href="https://github.com/Yash-Ray">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Ray&layout=compact"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Ray&layout=compact&theme=beufy"/>
     </a>
 </p>
 <p align="center">
