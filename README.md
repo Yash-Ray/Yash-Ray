@@ -1,4 +1,3 @@
-<code>@<a href="https://www.github.com/Yash-Ray">Yash-Ray</a></code>
 <p align="center">
     <a href="https://www.github.com/Yash-Ray">
         <img src="https://media3.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="130" height="130" hspace="30">
@@ -67,6 +66,12 @@
 <p align="center">
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height=40 hspace=20 vspace=5>
     <img src="https://miro.medium.com/max/325/0*tTvqxZBtyiDw3vVw.png" height=40 hspace=20 vspace=5>
+    <img src="https://github.com/Yash-Ray/Yash-Ray/blob/main/assets/Jquery.png?raw=true" height=50 hspace=15 vpsace=5>
+    <img src="https://github.com/Yash-Ray/Yash-Ray/blob/main/assets/react.png?raw=true" height=50 hspace=10 vspace=5>
+</p>
+<p align="center">
+    <img src="https://github.com/Yash-Ray/Yash-Ray/blob/main/assets/highcharts.png?raw=true" height=50 hspace=20 vspace=5>
+    <img src="https://github.com/Yash-Ray/Yash-Ray/blob/main/assets/anime.png?raw=true" height=50 hspace=20 vpsace=5>
 </p>
 <br>
 
