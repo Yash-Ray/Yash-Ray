@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/Yash-Ray">
-    <img src="https://currentkids.in/wp-content/uploads/2018/02/gif-animation.gif" width="300">
+    <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="300">
   </a>
 </p>
 <br>
