@@ -26,9 +26,6 @@
   <img src="https://komarev.com/ghpvc/?username=Yash-Ray&color=orange&style=plastic&label=PROFILE+VISITS&show_icons=true" alt="Yash-Ray" />
 </p>
 
-<br>
-<br>
-
 <p align="center">
   <code>
       Hi There. I'm Yash Ray, a <strong>2nd</strong> Year <strong>CSE</strong> Undergrad Student at <strong>Vellore Institue of Technology, Vellore.</strong> I'm a <strong>Front-End Web-Developer</strong> who loves to try out new things. <strong>Data_science</strong> and <strong>Sport Programming</strong> are also my fields of interest. With a passion for Technology, I always look forward to oppurtunities to innovate and create.
