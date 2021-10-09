@@ -68,6 +68,7 @@
 </p>
 <p align="center">
     <img src="https://github.com/Yash-Ray/Yash-Ray/blob/main/assets/highcharts.png?raw=true" height=50 hspace=20 vspace=5>
+    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height=55 hspace=20 vspace=5>
     <img src="https://github.com/Yash-Ray/Yash-Ray/blob/main/assets/anime.png?raw=true" height=50 hspace=20 vpsace=5>
 </p>
 <br>
