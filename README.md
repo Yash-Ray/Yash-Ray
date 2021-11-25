@@ -17,7 +17,7 @@
     <img src="https://github.com/Yash-Ray/YashRay/blob/main/assets/instagram.png" width="50" height="50" hspace="20">
   </a>
 
-  <a href="yashray.co">
+  <a href="https://www.yashray.co/">
     <img src="https://www.freeiconspng.com/uploads/black-www-icon-17.png" width="50" height="50" hspace="20">
   </a>
 </p>
