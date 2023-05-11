@@ -28,7 +28,7 @@
 
 <p align="center">
   <code>
-      Hi There. I'm Yash Ray, a <strong>Final</strong> Year <strong>CSE</strong> Undergrad Student at <strong>Vellore Institue of Technology, Vellore.</strong> I'm a <strong>Front-End Web-Developer</strong> who loves to try out new things. <strong>Data_science</strong> and <strong>Sport Programming</strong> are also my fields of interest. With a passion for Technology, I always look forward to oppurtunities to innovate and create.
+      Hi There. I'm Yash Ray, a <strong>Final</strong> Year <strong>CSE</strong> Undergrad Student at <strong>Vellore Institue of Technology, Vellore.</strong> I'm currently working at Hewlett Packard Enterprise as a Research and Development Intern. <strong>Data_science</strong> and <strong>Cloud Computing</strong> are my additional fields of interest. With a passion for Technology, I always look forward to oppurtunities to innovate and create.
   </code>
 </p>
 
